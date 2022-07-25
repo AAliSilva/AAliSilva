@@ -12,8 +12,6 @@
   <img align="center" alt="Ali-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/>
 
     
-    ##
-  </div>  
+   
   ![Snake animation](https://github.com/AAliSilva/AAliSilva/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
