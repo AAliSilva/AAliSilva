@@ -10,3 +10,7 @@
   <img align="center" alt="Ali-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Ali-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
   <img align="center" alt="Ali-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"/>
+
+ ![Snake animation](https://github.com/aldairribeiro/aldairribeiro/blob/output/github-contribution-grid-snake.svg)
+ 
+ </div>
